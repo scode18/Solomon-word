@@ -1,2 +1,2 @@
 # Solomon Word
-![image](https://github.com/scode18/Solomon-word/assets/98618381/fe48c98b-852b-4a5b-81d8-a85b7ff1348e)
+![image](https://github.com/scode18/Solomon-word/assets/98618381/db4ad91c-0acd-4d10-91da-4cfbf7bd192e)
